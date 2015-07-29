@@ -1,0 +1,56 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="master.master.cs" Inherits="ProyectoArquitecturaWeb.Presentacion.master" %>
+
+<!DOCTYPE html>
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head runat="server">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+<link rel="stylesheet" href="../style.css" />
+    <title></title>
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+</head>
+<body>
+      
+        <form id="form1" runat="server">
+            <div class="top">
+                <div class="center_content">
+                    <div class="top_i">
+                        <h1>Control de Inventario de Equipos</h1>
+                    </div>
+                    <div class="top_d">
+                        <div><p>Bienvenido, 
+                            <asp:Label ID="LblUsuario" runat="server" Text="Usuario"></asp:Label>
+                            </p></div>
+                        <asp:Menu ID="Menu1" runat="server" Orientation="Horizontal">
+                            <Items>
+                                <asp:MenuItem Text="Equipos" Value="Equipos"></asp:MenuItem>
+                                <asp:MenuItem Text="Mantenimiento" Value="Mantenimiento">
+                                    <asp:MenuItem Text="Registro Areas" Value="Registro Areas"></asp:MenuItem>
+                                    <asp:MenuItem Text="Registro Personal" Value="Registro Personal"></asp:MenuItem>
+                                    <asp:MenuItem Text="Registro Marcas" Value="Registro Marcas"></asp:MenuItem>
+                                </asp:MenuItem>
+                                <asp:MenuItem Text="Reportes" Value="Reportes"></asp:MenuItem>
+                                <asp:MenuItem Text="Sobre" Value="Sobre"></asp:MenuItem>
+                            </Items>
+                        </asp:Menu>
+                    </div>
+                    <div class="clear"></div>
+                </div>
+           </div>
+        <div class="center_content">
+            <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+        
+            </asp:ContentPlaceHolder>
+        </div>
+    </form>
+    <div class="pie">
+        <div class="center_content">
+            <p>&copy 2015 Todos los Derechos Reservados<br />
+            Desarrollo: Jorge Tapia & Diego Paredes<br />
+            Escuela Politécnica Nacional
+            </p>
+        </div>
+    </div>
+</body>
+</html>
