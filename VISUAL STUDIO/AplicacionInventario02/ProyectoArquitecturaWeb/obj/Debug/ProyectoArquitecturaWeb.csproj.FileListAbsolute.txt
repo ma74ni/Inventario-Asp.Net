@@ -1,0 +1,5 @@
+c:\users\dparedes\documents\visual studio 2012\Projects\AplicacionInventario\ProyectoArquitecturaWeb\bin\ProyectoArquitecturaWeb.dll
+c:\users\dparedes\documents\visual studio 2012\Projects\AplicacionInventario\ProyectoArquitecturaWeb\bin\ProyectoArquitecturaWeb.pdb
+c:\users\dparedes\documents\visual studio 2012\Projects\AplicacionInventario\ProyectoArquitecturaWeb\obj\Debug\ProyectoArquitecturaWeb.csprojResolveAssemblyReference.cache
+c:\users\dparedes\documents\visual studio 2012\Projects\AplicacionInventario\ProyectoArquitecturaWeb\obj\Debug\ProyectoArquitecturaWeb.dll
+c:\users\dparedes\documents\visual studio 2012\Projects\AplicacionInventario\ProyectoArquitecturaWeb\obj\Debug\ProyectoArquitecturaWeb.pdb
