@@ -3,3 +3,8 @@ c:\users\dparedes\documents\visual studio 2012\Projects\AplicacionInventario\Pro
 c:\users\dparedes\documents\visual studio 2012\Projects\AplicacionInventario\ProyectoArquitecturaWeb\obj\Debug\ProyectoArquitecturaWeb.csprojResolveAssemblyReference.cache
 c:\users\dparedes\documents\visual studio 2012\Projects\AplicacionInventario\ProyectoArquitecturaWeb\obj\Debug\ProyectoArquitecturaWeb.dll
 c:\users\dparedes\documents\visual studio 2012\Projects\AplicacionInventario\ProyectoArquitecturaWeb\obj\Debug\ProyectoArquitecturaWeb.pdb
+C:\Users\jtapia\Code\Inventario-Asp.Net\VISUAL STUDIO\AplicacionInventario\ProyectoArquitecturaWeb\bin\ProyectoArquitecturaWeb.dll
+C:\Users\jtapia\Code\Inventario-Asp.Net\VISUAL STUDIO\AplicacionInventario\ProyectoArquitecturaWeb\bin\ProyectoArquitecturaWeb.pdb
+C:\Users\jtapia\Code\Inventario-Asp.Net\VISUAL STUDIO\AplicacionInventario\ProyectoArquitecturaWeb\obj\Debug\ProyectoArquitecturaWeb.csprojResolveAssemblyReference.cache
+C:\Users\jtapia\Code\Inventario-Asp.Net\VISUAL STUDIO\AplicacionInventario\ProyectoArquitecturaWeb\obj\Debug\ProyectoArquitecturaWeb.dll
+C:\Users\jtapia\Code\Inventario-Asp.Net\VISUAL STUDIO\AplicacionInventario\ProyectoArquitecturaWeb\obj\Debug\ProyectoArquitecturaWeb.pdb

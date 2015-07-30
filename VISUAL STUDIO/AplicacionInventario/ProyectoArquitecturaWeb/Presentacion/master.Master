@@ -26,7 +26,7 @@
                             <Items>
                                 <asp:MenuItem Text="Equipos" Value="Equipos"></asp:MenuItem>
                                 <asp:MenuItem Text="Mantenimiento" Value="Mantenimiento">
-                                    <asp:MenuItem Text="Registro Areas" Value="Registro Areas"></asp:MenuItem>
+                                    <asp:MenuItem Text="Registro Areas" Value="Registro Areas" NavigateUrl="~/Presentacion/Areas.aspx"></asp:MenuItem>
                                     <asp:MenuItem Text="Registro Personal" Value="Registro Personal"></asp:MenuItem>
                                     <asp:MenuItem Text="Registro Marcas" Value="Registro Marcas"></asp:MenuItem>
                                 </asp:MenuItem>
